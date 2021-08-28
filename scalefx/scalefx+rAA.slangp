@@ -2,7 +2,7 @@ shaders = 9
 
 shader0 = ../stock.slang
 alias0 = refpass
-filter_linear0 = "false"
+filter_linear0 = false
 
 shader1 = shaders/scalefx-pass0.slang
 filter_linear1 = false
